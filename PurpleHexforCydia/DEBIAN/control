@@ -1,0 +1,9 @@
+Package: com.evilduck.purplehex.theme
+Name: Purple Hex
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A Hexagonal Purple Theme. First theme test.
+Author: evilDUCK
+Maintainer: evilDUCK
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
